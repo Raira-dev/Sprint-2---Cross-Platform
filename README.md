@@ -1,5 +1,17 @@
 # TerraSense
 
+*Integrantes*
+
+Ana Luiza rm: 563171
+
+Gisleine Muñoz Rm: 563804
+
+Larissa Machado Rm: 564168
+
+Raira RM:564850
+
+Sofia Franken Rm: 562767
+
 ## Sobre o Projeto
 
 O TerraSense é um aplicativo mobile desenvolvido em React Native com Expo e TypeScript para auxiliar no monitoramento da vegetação em rodovias.
