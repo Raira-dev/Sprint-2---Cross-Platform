@@ -1,0 +1,304 @@
+{"_e":"root:init","_t":1781292794345,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1781292794346,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781292794348,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781292794688,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781292795455,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1781292802358,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/Sprint-2---Cross-Platform/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1781292804154,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"env:mode","_t":1781292838716,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"metro:bundling:started","_t":1781292866386,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781292866387,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781292866391,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781292866767,"id":"3","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:failed","_t":1781292866793,"id":"3","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1781292885732,"id":"5","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781292885732,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781292885739,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1781292885747,"id":"5","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1781292898510,"id":"7","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781292898510,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781292898512,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1781292898515,"id":"7","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1781292907355,"id":"9","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781292907355,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781292907357,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1781292907360,"id":"9","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1781292952713,"id":"b","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781292952713,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781292952714,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1781292952717,"id":"b","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1781293043774,"id":"d","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293043775,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293043776,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1781293043778,"id":"d","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"root:init","_t":1781293325401,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1781293325402,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781293325406,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781293325912,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781293326414,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1781293326791,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/Sprint-2---Cross-Platform/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1781293330140,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781293332375,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293332376,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293332384,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1781293332397,"id":"1","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1781293337349,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293337349,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293337356,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1781293337362,"id":"3","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1781293490091,"id":"5","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293490091,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293490096,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293490339,"id":"5","progress":0.16000000000000003,"total":9,"current":4}
+{"_e":"metro:bundling:progress","_t":1781293490441,"id":"5","progress":0.16000000000000003,"total":35,"current":10}
+{"_e":"metro:bundling:progress","_t":1781293490543,"id":"5","progress":0.16000000000000003,"total":44,"current":17}
+{"_e":"metro:bundling:progress","_t":1781293490655,"id":"5","progress":0.3338271604938271,"total":45,"current":26}
+{"_e":"metro:bundling:progress","_t":1781293490755,"id":"5","progress":0.3338271604938271,"total":84,"current":29}
+{"_e":"metro:bundling:progress","_t":1781293490865,"id":"5","progress":0.3338271604938271,"total":99,"current":42}
+{"_e":"metro:bundling:progress","_t":1781293490976,"id":"5","progress":0.3338271604938271,"total":116,"current":51}
+{"_e":"metro:bundling:progress","_t":1781293491079,"id":"5","progress":0.3338271604938271,"total":121,"current":58}
+{"_e":"metro:bundling:progress","_t":1781293491183,"id":"5","progress":0.3338271604938271,"total":123,"current":67}
+{"_e":"metro:bundling:progress","_t":1781293491285,"id":"5","progress":0.3338271604938271,"total":139,"current":74}
+{"_e":"metro:bundling:progress","_t":1781293491386,"id":"5","progress":0.3338271604938271,"total":151,"current":83}
+{"_e":"metro:bundling:progress","_t":1781293491494,"id":"5","progress":0.34088191042012267,"total":161,"current":94}
+{"_e":"metro:bundling:progress","_t":1781293491597,"id":"5","progress":0.37145057946150345,"total":169,"current":103}
+{"_e":"metro:bundling:progress","_t":1781293491700,"id":"5","progress":0.4313924582472603,"total":169,"current":111}
+{"_e":"metro:bundling:progress","_t":1781293491804,"id":"5","progress":0.532732197119831,"total":174,"current":127}
+{"_e":"metro:bundling:progress","_t":1781293491932,"id":"5","progress":0.6186087615200101,"total":178,"current":140}
+{"_e":"metro:bundling:progress","_t":1781293492075,"id":"5","progress":0.6595952504502305,"total":181,"current":147}
+{"_e":"metro:bundling:progress","_t":1781293492190,"id":"5","progress":0.703152126736111,"total":192,"current":161}
+{"_e":"metro:bundling:progress","_t":1781293492303,"id":"5","progress":0.703152126736111,"total":206,"current":168}
+{"_e":"metro:bundling:progress","_t":1781293492404,"id":"5","progress":0.7730402109734184,"total":207,"current":182}
+{"_e":"metro:bundling:progress","_t":1781293492504,"id":"5","progress":0.8108533051818243,"total":211,"current":190}
+{"_e":"metro:bundling:progress","_t":1781293492627,"id":"5","progress":0.8402777777777777,"total":216,"current":198}
+{"_e":"metro:bundling:progress","_t":1781293492738,"id":"5","progress":0.8814667912511203,"total":229,"current":215}
+{"_e":"metro:bundling:progress","_t":1781293494375,"id":"5","progress":0.8814667912511203,"total":239,"current":219}
+{"_e":"metro:bundling:progress","_t":1781293494475,"id":"5","progress":0.9017637161228292,"total":258,"current":245}
+{"_e":"metro:bundling:progress","_t":1781293494577,"id":"5","progress":0.9017637161228292,"total":281,"current":257}
+{"_e":"metro:bundling:failed","_t":1781293494648,"id":"5","message":"Unable to resolve \"../screens/DetailScreen\" from \"src/navigation/AppNavigator.tsx\"\n   5 | import ListaScreen from \"../screens/ListaScreen\";\n   6 | import CadastroScreen from \"../screens/CadastroScreen\";\n>  7 | import DetailScreen from \"../screens/DetailScreen\";\n     |                           ^\n   8 |\n   9 | const Tab =\n  10 |   createBottomTabNavigator();","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc/navigation/AppNavigator.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../screens/DetailScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/AppNavigator\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../screens/DetailScreen","originModulePath":"src/navigation/AppNavigator.tsx"}
+{"_e":"root:init","_t":1781293543242,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1781293543243,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781293543245,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781293543570,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781293544048,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1781293544201,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/Sprint-2---Cross-Platform/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1781293547421,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781293549518,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293549518,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293549527,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293549626,"id":"1","progress":0.33587293388429756,"total":176,"current":102}
+{"_e":"metro:bundling:progress","_t":1781293549726,"id":"1","progress":0.8762649103962914,"total":266,"current":249}
+{"_e":"metro:bundling:failed","_t":1781293549743,"id":"1","message":"Unable to resolve \"../screens/DetailScreen\" from \"src/navigation/AppNavigator.tsx\"\n   5 | import ListaScreen from \"../screens/ListaScreen\";\n   6 | import CadastroScreen from \"../screens/CadastroScreen\";\n>  7 | import DetailScreen from \"../screens/DetailScreen\";\n     |                           ^\n   8 |\n   9 | const Tab =\n  10 |   createBottomTabNavigator();","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc/navigation/AppNavigator.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../screens/DetailScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/AppNavigator\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../screens/DetailScreen","originModulePath":"src/navigation/AppNavigator.tsx"}
+{"_e":"metro:bundling:started","_t":1781293552497,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293552497,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293552499,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293552604,"id":"3","progress":0.8824609733700643,"total":264,"current":248}
+{"_e":"metro:bundling:failed","_t":1781293552618,"id":"3","message":"Unable to resolve \"../screens/DetailScreen\" from \"src/navigation/AppNavigator.tsx\"\n   5 | import ListaScreen from \"../screens/ListaScreen\";\n   6 | import CadastroScreen from \"../screens/CadastroScreen\";\n>  7 | import DetailScreen from \"../screens/DetailScreen\";\n     |                           ^\n   8 |\n   9 | const Tab =\n  10 |   createBottomTabNavigator();","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc/navigation/AppNavigator.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../screens/DetailScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/AppNavigator\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../screens/DetailScreen","originModulePath":"src/navigation/AppNavigator.tsx"}
+{"_e":"metro:bundling:started","_t":1781293557690,"id":"5","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293557690,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293557691,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293557795,"id":"5","progress":0.8824609733700643,"total":264,"current":248}
+{"_e":"metro:bundling:failed","_t":1781293557817,"id":"5","message":"Unable to resolve \"../screens/DetailScreen\" from \"src/navigation/AppNavigator.tsx\"\n   5 | import ListaScreen from \"../screens/ListaScreen\";\n   6 | import CadastroScreen from \"../screens/CadastroScreen\";\n>  7 | import DetailScreen from \"../screens/DetailScreen\";\n     |                           ^\n   8 |\n   9 | const Tab =\n  10 |   createBottomTabNavigator();","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc/navigation/AppNavigator.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../screens/DetailScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/AppNavigator\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../screens/DetailScreen","originModulePath":"src/navigation/AppNavigator.tsx"}
+{"_e":"root:init","_t":1781293800699,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1781293800701,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781293800706,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781293800972,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781293801469,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1781293801662,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/Sprint-2---Cross-Platform/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1781293804844,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781293832934,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293832934,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293832941,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781293833041,"id":"1","progress":0.19753086419753085,"total":126,"current":56}
+{"_e":"metro:bundling:progress","_t":1781293833335,"id":"1","progress":0.30941406250000003,"total":160,"current":89}
+{"_e":"metro:bundling:progress","_t":1781293833447,"id":"1","progress":0.30941406250000003,"total":167,"current":92}
+{"_e":"metro:bundling:progress","_t":1781293833577,"id":"1","progress":0.6096828673297054,"total":219,"current":171}
+{"_e":"metro:bundling:progress","_t":1781293833682,"id":"1","progress":0.6136111111111111,"total":240,"current":188}
+{"_e":"metro:bundling:progress","_t":1781293833815,"id":"1","progress":0.6978780334976037,"total":243,"current":203}
+{"_e":"metro:bundling:progress","_t":1781293833925,"id":"1","progress":0.7058754367105616,"total":244,"current":205}
+{"_e":"metro:bundling:progress","_t":1781293834026,"id":"1","progress":0.7058754367105616,"total":254,"current":213}
+{"_e":"metro:bundling:progress","_t":1781293834133,"id":"1","progress":0.7502975600079349,"total":284,"current":246}
+{"_e":"metro:bundling:progress","_t":1781293834233,"id":"1","progress":0.7502975600079349,"total":335,"current":272}
+{"_e":"metro:bundling:progress","_t":1781293834450,"id":"1","progress":0.7502975600079349,"total":351,"current":300}
+{"_e":"metro:bundling:progress","_t":1781293834552,"id":"1","progress":0.7502975600079349,"total":367,"current":308}
+{"_e":"metro:bundling:progress","_t":1781293834656,"id":"1","progress":0.7502975600079349,"total":373,"current":322}
+{"_e":"metro:bundling:progress","_t":1781293834786,"id":"1","progress":0.75201416015625,"total":384,"current":333}
+{"_e":"metro:bundling:progress","_t":1781293834938,"id":"1","progress":0.75201416015625,"total":419,"current":351}
+{"_e":"metro:bundling:progress","_t":1781293835043,"id":"1","progress":0.75201416015625,"total":422,"current":362}
+{"_e":"metro:bundling:progress","_t":1781293835145,"id":"1","progress":0.7563228588755869,"total":422,"current":367}
+{"_e":"metro:bundling:progress","_t":1781293835247,"id":"1","progress":0.7563228588755869,"total":444,"current":379}
+{"_e":"metro:bundling:progress","_t":1781293835376,"id":"1","progress":0.816860101396834,"total":447,"current":404}
+{"_e":"metro:bundling:progress","_t":1781293835479,"id":"1","progress":0.8297627491927124,"total":449,"current":409}
+{"_e":"metro:bundling:progress","_t":1781293835582,"id":"1","progress":0.8492887351018837,"total":459,"current":423}
+{"_e":"metro:bundling:progress","_t":1781293835692,"id":"1","progress":0.8492887351018837,"total":466,"current":429}
+{"_e":"metro:bundling:progress","_t":1781293835800,"id":"1","progress":0.8713781797417525,"total":466,"current":435}
+{"_e":"metro:bundling:progress","_t":1781293835912,"id":"1","progress":0.8884065187867813,"total":470,"current":443}
+{"_e":"metro:bundling:progress","_t":1781293836127,"id":"1","progress":0.8893206216952412,"total":474,"current":447}
+{"_e":"metro:bundling:progress","_t":1781293836230,"id":"1","progress":0.9256465373961218,"total":475,"current":457}
+{"_e":"metro:bundling:progress","_t":1781293836361,"id":"1","progress":0.9545044729609076,"total":478,"current":467}
+{"_e":"metro:bundling:progress","_t":1781293836474,"id":"1","progress":0.9545044729609076,"total":487,"current":474}
+{"_e":"metro:bundling:progress","_t":1781293836580,"id":"1","progress":0.999,"total":488,"current":488}
+{"_e":"metro:bundling:done","_t":1781293836725,"id":"1","total":488,"ms":3790.660444}
+{"_e":"metro:bundling:started","_t":1781293837409,"id":"2","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293837410,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781293837428,"id":"2","total":1,"ms":18.485218}
+{"_e":"metro:client_log","_t":1781293838481,"level":"error","data":["[Error: Incompatible React versions: The \"react\" and \"react-dom\" packages must have the exact same version. Instead got:\n  - react:      19.2.7\n  - react-dom:  19.2.3\nLearn more: https://react.dev/warnings/version-mismatch]","\n\n\u001b[1mCode: react-dom-client.development.js\u001b[22m\n\u001b[0m \u001b[90m 27933 |\u001b[39m       \u001b[36mvar\u001b[39m isomorphicReactPackageVersion \u001b[33m=\u001b[39m \u001b[33mReact\u001b[39m\u001b[33m.\u001b[39mversion\u001b[33m;\u001b[39m\n \u001b[90m 27934 |\u001b[39m       \u001b[36mif\u001b[39m (\u001b[32m\"19.2.3\"\u001b[39m \u001b[33m!==\u001b[39m isomorphicReactPackageVersion)\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 27935 |\u001b[39m         \u001b[36mthrow\u001b[39m \u001b[33mError\u001b[39m(\n \u001b[90m       |\u001b[39m               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 27936 |\u001b[39m           \u001b[32m'Incompatible React versions: The \"react\" and \"react-dom\" packages must have the exact same version. Instead got:\\n  - react:      '\u001b[39m \u001b[33m+\u001b[39m\n \u001b[90m 27937 |\u001b[39m             (isomorphicReactPackageVersion \u001b[33m+\u001b[39m\n \u001b[90m 27938 |\u001b[39m               \u001b[32m\"\\n  - react-dom:  19.2.3\\nLearn more: https://react.dev/warnings/version-mismatch\"\u001b[39m)\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:27935:15\u0007node_modules/react-dom/cjs/react-dom-client.development.js:27935:15\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:27940:6\u0007node_modules/react-dom/cjs/react-dom-client.development.js:27940:6\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <global> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:28121:4\u0007node_modules/react-dom/cjs/react-dom-client.development.js:28121:4\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <global> (\u001b]8;;node_modules/react-dom/client.js:37:20\u0007node_modules/react-dom/client.js:37:20\u001b]8;;\u0007)\u001b[39m\u001b[22m"]}
+{"_e":"metro:bundling:started","_t":1781293841170,"id":"6","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781293841170,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781293841189,"id":"6","total":1,"ms":19.860221}
+{"_e":"root:init","_t":1781293949923,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1781293949924,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781293949929,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781293950236,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781293950738,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1781293950923,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/Sprint-2---Cross-Platform/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1781293953950,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"root:init","_t":1781294201096,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1781294201097,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781294201101,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781294201345,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781294201847,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1781294202113,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/Sprint-2---Cross-Platform/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1781294205330,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781294211439,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781294211439,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781294211449,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781294211615,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1781294211715,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1781294211828,"id":"1","progress":0.10053539559785842,"total":41,"current":13}
+{"_e":"metro:bundling:progress","_t":1781294211931,"id":"1","progress":0.16000000000000003,"total":50,"current":20}
+{"_e":"metro:bundling:progress","_t":1781294212049,"id":"1","progress":0.2413050169282856,"total":57,"current":28}
+{"_e":"metro:bundling:progress","_t":1781294212153,"id":"1","progress":0.33518005540166207,"total":57,"current":33}
+{"_e":"metro:bundling:progress","_t":1781294212261,"id":"1","progress":0.33518005540166207,"total":109,"current":37}
+{"_e":"metro:bundling:progress","_t":1781294212366,"id":"1","progress":0.33518005540166207,"total":113,"current":43}
+{"_e":"metro:bundling:progress","_t":1781294212503,"id":"1","progress":0.33518005540166207,"total":116,"current":45}
+{"_e":"metro:bundling:progress","_t":1781294212603,"id":"1","progress":0.33518005540166207,"total":128,"current":56}
+{"_e":"metro:bundling:progress","_t":1781294212704,"id":"1","progress":0.33518005540166207,"total":145,"current":65}
+{"_e":"metro:bundling:progress","_t":1781294212812,"id":"1","progress":0.33518005540166207,"total":151,"current":75}
+{"_e":"metro:bundling:progress","_t":1781294212915,"id":"1","progress":0.33518005540166207,"total":168,"current":86}
+{"_e":"metro:bundling:progress","_t":1781294213047,"id":"1","progress":0.33518005540166207,"total":181,"current":98}
+{"_e":"metro:bundling:progress","_t":1781294213150,"id":"1","progress":0.33518005540166207,"total":192,"current":107}
+{"_e":"metro:bundling:progress","_t":1781294213251,"id":"1","progress":0.3393345272881515,"total":206,"current":120}
+{"_e":"metro:bundling:progress","_t":1781294213354,"id":"1","progress":0.4237273050907796,"total":212,"current":138}
+{"_e":"metro:bundling:progress","_t":1781294213454,"id":"1","progress":0.5036420395421437,"total":217,"current":154}
+{"_e":"metro:bundling:progress","_t":1781294213554,"id":"1","progress":0.5471945956089322,"total":219,"current":162}
+{"_e":"metro:bundling:progress","_t":1781294213662,"id":"1","progress":0.6103515625,"total":224,"current":175}
+{"_e":"metro:bundling:progress","_t":1781294213767,"id":"1","progress":0.6103515625,"total":269,"current":186}
+{"_e":"metro:bundling:progress","_t":1781294213874,"id":"1","progress":0.6103515625,"total":280,"current":194}
+{"_e":"metro:bundling:progress","_t":1781294213995,"id":"1","progress":0.6103515625,"total":293,"current":206}
+{"_e":"metro:bundling:progress","_t":1781294214096,"id":"1","progress":0.6103515625,"total":299,"current":218}
+{"_e":"metro:bundling:progress","_t":1781294214198,"id":"1","progress":0.6103515625,"total":301,"current":227}
+{"_e":"metro:bundling:progress","_t":1781294214299,"id":"1","progress":0.6103515625,"total":307,"current":235}
+{"_e":"metro:bundling:progress","_t":1781294214440,"id":"1","progress":0.6660665972944849,"total":310,"current":253}
+{"_e":"metro:bundling:progress","_t":1781294214593,"id":"1","progress":0.6660665972944849,"total":336,"current":262}
+{"_e":"metro:bundling:progress","_t":1781294214694,"id":"1","progress":0.6660665972944849,"total":360,"current":276}
+{"_e":"metro:bundling:progress","_t":1781294214799,"id":"1","progress":0.6660665972944849,"total":376,"current":293}
+{"_e":"metro:bundling:progress","_t":1781294214908,"id":"1","progress":0.6660665972944849,"total":379,"current":305}
+{"_e":"metro:bundling:progress","_t":1781294215011,"id":"1","progress":0.6660665972944849,"total":402,"current":319}
+{"_e":"metro:bundling:progress","_t":1781294215136,"id":"1","progress":0.6660665972944849,"total":414,"current":335}
+{"_e":"metro:bundling:progress","_t":1781294215265,"id":"1","progress":0.6751691101756424,"total":415,"current":341}
+{"_e":"metro:bundling:progress","_t":1781294216868,"id":"1","progress":0.6950951302316143,"total":427,"current":356}
+{"_e":"metro:bundling:progress","_t":1781294217007,"id":"1","progress":0.7159763313609467,"total":429,"current":363}
+{"_e":"metro:bundling:progress","_t":1781294217108,"id":"1","progress":0.74896775964815,"total":431,"current":373}
+{"_e":"metro:bundling:progress","_t":1781294217276,"id":"1","progress":0.7681299059009576,"total":437,"current":383}
+{"_e":"metro:bundling:progress","_t":1781294217378,"id":"1","progress":0.7945988001883664,"total":442,"current":394}
+{"_e":"metro:bundling:progress","_t":1781294217484,"id":"1","progress":0.8533451306078947,"total":446,"current":412}
+{"_e":"metro:bundling:progress","_t":1781294217589,"id":"1","progress":0.8814667912511203,"total":458,"current":430}
+{"_e":"metro:bundling:progress","_t":1781294217693,"id":"1","progress":0.904720047241042,"total":471,"current":448}
+{"_e":"metro:bundling:progress","_t":1781294217808,"id":"1","progress":0.9115141662009517,"total":486,"current":464}
+{"_e":"metro:bundling:progress","_t":1781294217913,"id":"1","progress":0.999,"total":488,"current":488}
+{"_e":"metro:bundling:done","_t":1781294218033,"id":"1","total":488,"ms":6593.51706}
+{"_e":"metro:client_log","_t":1781294220700,"level":"error","data":["[Error: Incompatible React versions: The \"react\" and \"react-dom\" packages must have the exact same version. Instead got:\n  - react:      19.2.7\n  - react-dom:  19.2.3\nLearn more: https://react.dev/warnings/version-mismatch]","\n\n\u001b[1mCode: react-dom-client.development.js\u001b[22m\n\u001b[0m \u001b[90m 27933 |\u001b[39m       \u001b[36mvar\u001b[39m isomorphicReactPackageVersion \u001b[33m=\u001b[39m \u001b[33mReact\u001b[39m\u001b[33m.\u001b[39mversion\u001b[33m;\u001b[39m\n \u001b[90m 27934 |\u001b[39m       \u001b[36mif\u001b[39m (\u001b[32m\"19.2.3\"\u001b[39m \u001b[33m!==\u001b[39m isomorphicReactPackageVersion)\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 27935 |\u001b[39m         \u001b[36mthrow\u001b[39m \u001b[33mError\u001b[39m(\n \u001b[90m       |\u001b[39m               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 27936 |\u001b[39m           \u001b[32m'Incompatible React versions: The \"react\" and \"react-dom\" packages must have the exact same version. Instead got:\\n  - react:      '\u001b[39m \u001b[33m+\u001b[39m\n \u001b[90m 27937 |\u001b[39m             (isomorphicReactPackageVersion \u001b[33m+\u001b[39m\n \u001b[90m 27938 |\u001b[39m               \u001b[32m\"\\n  - react-dom:  19.2.3\\nLearn more: https://react.dev/warnings/version-mismatch\"\u001b[39m)\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:27935:15\u0007node_modules/react-dom/cjs/react-dom-client.development.js:27935:15\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:27940:6\u0007node_modules/react-dom/cjs/react-dom-client.development.js:27940:6\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <global> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:28121:4\u0007node_modules/react-dom/cjs/react-dom-client.development.js:28121:4\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <global> (\u001b]8;;node_modules/react-dom/client.js:37:20\u0007node_modules/react-dom/client.js:37:20\u001b]8;;\u0007)\u001b[39m\u001b[22m"]}
+{"_e":"root:init","_t":1781294366590,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1781294366591,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781294366596,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781294366880,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781294367396,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1781294367590,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/Sprint-2---Cross-Platform/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1781294370727,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"root:init","_t":1781294421053,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1781294421054,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781294421058,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781294421313,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781294421785,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1781294421977,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/Sprint-2---Cross-Platform/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1781294425084,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781294426661,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781294426661,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781294426669,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781294426834,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1781294426939,"id":"1","progress":0.17361111111111113,"total":12,"current":5}
+{"_e":"metro:bundling:progress","_t":1781294427049,"id":"1","progress":0.17361111111111113,"total":41,"current":13}
+{"_e":"metro:bundling:progress","_t":1781294427165,"id":"1","progress":0.17639999999999997,"total":50,"current":21}
+{"_e":"metro:bundling:progress","_t":1781294427301,"id":"1","progress":0.3151738996614343,"total":57,"current":32}
+{"_e":"metro:bundling:progress","_t":1781294427401,"id":"1","progress":0.3151738996614343,"total":109,"current":36}
+{"_e":"metro:bundling:progress","_t":1781294427640,"id":"1","progress":0.3151738996614343,"total":116,"current":46}
+{"_e":"metro:bundling:progress","_t":1781294427771,"id":"1","progress":0.3151738996614343,"total":128,"current":58}
+{"_e":"metro:bundling:progress","_t":1781294427883,"id":"1","progress":0.3151738996614343,"total":147,"current":66}
+{"_e":"metro:bundling:progress","_t":1781294428040,"id":"1","progress":0.3151738996614343,"total":152,"current":83}
+{"_e":"metro:bundling:progress","_t":1781294428145,"id":"1","progress":0.3151738996614343,"total":181,"current":98}
+{"_e":"metro:bundling:progress","_t":1781294428256,"id":"1","progress":0.32229275173611116,"total":192,"current":109}
+{"_e":"metro:bundling:progress","_t":1781294428398,"id":"1","progress":0.3622784753262505,"total":211,"current":127}
+{"_e":"metro:bundling:progress","_t":1781294428499,"id":"1","progress":0.44235048059807763,"total":212,"current":141}
+{"_e":"metro:bundling:progress","_t":1781294428621,"id":"1","progress":0.5368769776380896,"total":217,"current":159}
+{"_e":"metro:bundling:progress","_t":1781294428731,"id":"1","progress":0.607276195114033,"total":222,"current":173}
+{"_e":"metro:bundling:progress","_t":1781294428842,"id":"1","progress":0.607276195114033,"total":265,"current":185}
+{"_e":"metro:bundling:progress","_t":1781294428944,"id":"1","progress":0.607276195114033,"total":280,"current":193}
+{"_e":"metro:bundling:progress","_t":1781294429052,"id":"1","progress":0.607276195114033,"total":281,"current":196}
+{"_e":"metro:bundling:progress","_t":1781294429154,"id":"1","progress":0.607276195114033,"total":295,"current":208}
+{"_e":"metro:bundling:progress","_t":1781294429255,"id":"1","progress":0.607276195114033,"total":300,"current":221}
+{"_e":"metro:bundling:progress","_t":1781294429356,"id":"1","progress":0.607276195114033,"total":303,"current":232}
+{"_e":"metro:bundling:progress","_t":1781294429465,"id":"1","progress":0.6431206780232754,"total":308,"current":247}
+{"_e":"metro:bundling:progress","_t":1781294429573,"id":"1","progress":0.6431206780232754,"total":317,"current":253}
+{"_e":"metro:bundling:progress","_t":1781294429673,"id":"1","progress":0.6431206780232754,"total":342,"current":268}
+{"_e":"metro:bundling:progress","_t":1781294429781,"id":"1","progress":0.6431206780232754,"total":359,"current":273}
+{"_e":"metro:bundling:progress","_t":1781294429881,"id":"1","progress":0.6431206780232754,"total":374,"current":285}
+{"_e":"metro:bundling:progress","_t":1781294430004,"id":"1","progress":0.6431206780232754,"total":378,"current":300}
+{"_e":"metro:bundling:progress","_t":1781294430109,"id":"1","progress":0.6431206780232754,"total":402,"current":315}
+{"_e":"metro:bundling:progress","_t":1781294430211,"id":"1","progress":0.6431206780232754,"total":422,"current":335}
+{"_e":"metro:bundling:progress","_t":1781294430317,"id":"1","progress":0.664205913486061,"total":427,"current":348}
+{"_e":"metro:bundling:progress","_t":1781294431947,"id":"1","progress":0.7187227484382628,"total":427,"current":362}
+{"_e":"metro:bundling:progress","_t":1781294432051,"id":"1","progress":0.7187227484382628,"total":429,"current":363}
+{"_e":"metro:bundling:progress","_t":1781294432157,"id":"1","progress":0.7661302796430723,"total":433,"current":379}
+{"_e":"metro:bundling:progress","_t":1781294432258,"id":"1","progress":0.7937190082644627,"total":440,"current":392}
+{"_e":"metro:bundling:progress","_t":1781294432369,"id":"1","progress":0.8156856180504829,"total":444,"current":401}
+{"_e":"metro:bundling:progress","_t":1781294432489,"id":"1","progress":0.8794271604938272,"total":450,"current":422}
+{"_e":"metro:bundling:progress","_t":1781294432592,"id":"1","progress":0.8901512287334593,"total":460,"current":434}
+{"_e":"metro:bundling:progress","_t":1781294432696,"id":"1","progress":0.8901512287334593,"total":483,"current":451}
+{"_e":"metro:bundling:progress","_t":1781294432796,"id":"1","progress":0.8954477153199917,"total":484,"current":458}
+{"_e":"metro:bundling:progress","_t":1781294432896,"id":"1","progress":0.9714591704649427,"total":487,"current":480}
+{"_e":"metro:bundling:done","_t":1781294433065,"id":"1","total":487,"ms":6404.473822}
+{"_e":"metro:client_log","_t":1781294435470,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781294435471,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781294435471,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:bundling:started","_t":1781294678403,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781294678403,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781294678421,"id":"3","total":1,"ms":18.552331}
+{"_e":"metro:client_log","_t":1781294680223,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781294680223,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781294680223,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:bundling:started","_t":1781294844414,"id":"5","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781294844414,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781294844431,"id":"5","total":1,"ms":17.450417}
+{"_e":"metro:client_log","_t":1781294846181,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781294846182,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781294846182,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:bundling:started","_t":1781294853415,"id":"7","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781294853415,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781294853432,"id":"7","total":1,"ms":16.258628}
+{"_e":"metro:client_log","_t":1781294855083,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781294855083,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781294855084,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:bundling:started","_t":1781295098381,"id":"9","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781295098381,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781295098406,"id":"9","total":1,"ms":25.093196}
+{"_e":"metro:client_log","_t":1781295099767,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781295099767,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781295099767,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:bundling:started","_t":1781297121172,"id":"b","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781297121172,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781297121172,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781297121254,"id":"b","total":1,"ms":82.124957}
+{"_e":"metro:client_log","_t":1781297122698,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781297122703,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781297122703,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
